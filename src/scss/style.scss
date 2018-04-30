@@ -1,0 +1,21 @@
+body {
+ background: #0079bf;
+ font-family: 'Roboto', sans-serif;
+}
+.page-header, .page-main {
+ width: 1200px;
+ margin: 0 auto 20px;
+ background: #f4f4f4;
+}
+.page-header {
+ padding: 0 20px;
+ position: relative;
+}
+.page-main {
+ padding: 20px;
+}
+.sort-panel p {
+ position: relative;
+ top: -27px;
+ display: inline-block;
+}
